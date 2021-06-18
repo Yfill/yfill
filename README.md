@@ -1,4 +1,4 @@
-### :muscle: Don't Stop.
+### :muscle: Simple & Powerful.
 
 <!--
 **Yfill/Yfill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
